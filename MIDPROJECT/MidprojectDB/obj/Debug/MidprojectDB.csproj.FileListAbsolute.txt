@@ -1,0 +1,13 @@
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\bin\Debug\MidprojectDB.exe.config
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\bin\Debug\MidprojectDB.exe
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\bin\Debug\MidprojectDB.pdb
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.csproj.AssemblyReference.cache
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.Form1.resources
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.Properties.Resources.resources
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.usercontrols.Home_Control.resources
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.csproj.GenerateResource.cache
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.csproj.CoreCompileInputs.cache
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.exe
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.pdb
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.usercontrols.StudentControl.resources
+C:\Semester 4\DB LAB\MIDPROJECT\MidprojectDB\obj\Debug\MidprojectDB.usercontrols.AddControl.resources
